@@ -19,7 +19,7 @@ const CopyButton = ({ value, size = 26 }: { value: string; size?: number }) => {
     >
       <Image
         src={copyOk ? '/check-white.svg' : '/copy-New.svg'}
-        alt="copied"
+        alt=""
         width={size}
         height={size}
       />
