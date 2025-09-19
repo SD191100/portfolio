@@ -7,6 +7,27 @@ import ThemeProvider from "@/lib/utils/ThemeProvider";
 export const metadata: Metadata = {
   title: "dev.sh | Portfolio",
   description: "This is my personal portfoloi where i used Mac Styled UI.",
+  robots: "index, follow",
+  openGraph: {
+    title: "dev.sh | Portfolio",
+    description: "Mac-styled portfolio for dev.sh.",
+    url: "https://shivam.cc",
+    type: "website",
+    images: [
+      {
+        url: "https://shivam.cc/og-image.jpg", // 🔁 Replace with your actual image
+        width: 1200,
+        height: 630,
+        alt: "Portfolio Cover",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "dev.sh | Portfolio",
+    description: "Mac-styled portfolio for dev.sh.",
+    images: ["https://shivam.cc/og-image.jpg"], // 🔁 Replace with your actual image
+  },
 };
 
 export default function RootLayout({
@@ -18,6 +39,24 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         <link rel="icon"  type="image/svg+xml" href="/logo.svg" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Person",
+              name: "Shivam Durgude",
+              url: "https://shivam.cc", // 🔁 Replace with your actual URL
+              sameAs: [
+                "https://github.com/sd191100",
+                "https://www.linkedin.com/in/shivam-durgude",
+              ],
+              jobTitle: "AI-Focused Full-Stack Developer",
+              description:
+                "Portfolio of Shivam Durgude, a full-stack developer and Devops Engineer.",
+            }),
+          }}
+        />
       </head>
       <body className="bg-[url(/back/purple.jpg)] dark:bg-[url(/back/green.jpg)]">
         <ThemeProvider>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://shivam.cc/this-pc/contact</loc><lastmod>2025-09-19T10:13:57.220Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://shivam.cc/this-pc/my-tools/linux</loc><lastmod>2025-09-19T10:13:57.220Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://shivam.cc/this-pc/my-tools/neovim</loc><lastmod>2025-09-19T10:13:57.220Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://shivam.cc/this-pc/my-tools/postman</loc><lastmod>2025-09-19T10:13:57.220Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://shivam.cc/this-pc/my-tools</loc><lastmod>2025-09-19T10:13:57.220Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://shivam.cc/this-pc/my-tools/proxmox</loc><lastmod>2025-09-19T10:13:57.220Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://shivam.cc/this-pc/my-tools/tmux</loc><lastmod>2025-09-19T10:13:57.220Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://shivam.cc/this-pc/my-tools/vscode</loc><lastmod>2025-09-19T10:13:57.220Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://shivam.cc/this-pc/my-tools/docker</loc><lastmod>2025-09-19T10:13:57.220Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://shivam.cc</loc><lastmod>2025-09-19T10:13:57.220Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://shivam.cc/this-pc</loc><lastmod>2025-09-19T10:13:57.220Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://shivam.cc/this-pc/resume</loc><lastmod>2025-09-19T10:13:57.220Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://shivam.cc/this-pc/projects</loc><lastmod>2025-09-19T10:13:57.220Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://shivam.cc/this-pc/about</loc><lastmod>2025-09-19T10:13:57.220Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://shivam.cc/this-pc/blogs</loc><lastmod>2025-09-19T10:13:57.220Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>
