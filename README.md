@@ -67,6 +67,10 @@ There are still things I'd like to improve, but that's part of building projects
 
 If you have any feedback, find a bug, or just want to connect, feel free to reach out.
 
-- **Email:** Shivamdurgude1@gmail.com
-- **Portfolio:** https://portfolio-one-navy-57.vercel.app/
-- **GitHub:** https://github.com/sd191100
+- **Email:** [shivamdurgude1](mailto:Shivamdurgude1@gmail.com)
+- **Portfolio:** [shivam.cc](https://shivam.cc)
+- **GitHub:** [github@SD191100](https://github.com/sd191100)
+
+-- 
+
+Check out my **blog** at [shivam.cc/blog](https://blog.shivam.cc)
