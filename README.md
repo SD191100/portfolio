@@ -1,7 +1,10 @@
+# My Portfolio — "This PC"
 
-# 🖥️ My Portfolio — "This PC"
+I got tired of seeing the same portfolio layouts everywhere, so I decided to build something a little different.
 
-A modern, macOS-style portfolio built with **Next.js 15**, inspired by the nostalgia of "This PC" or a system desktop. Designed to creatively showcase who I am, what I’ve built, and the tools I love.
+This portfolio is inspired by the old **"This PC"** experience, mixed with a macOS-style desktop. Instead of clicking through sections, you explore folders, open files, and navigate around like you're using an actual computer.
+
+It was a fun project that gave me a chance to experiment with the Next.js App Router while building something that actually feels like me.
 
 ---
 
@@ -12,48 +15,58 @@ A modern, macOS-style portfolio built with **Next.js 15**, inspired by the nosta
 
 ---
 
-## ✨ Features
+## Features
 
-- 📁 macOS-inspired folder-style navigation  
-- 🧠 Blogs with Markdown and syntax-highlighted code blocks  
-- 🛠️ Dedicated pages for tools I use (like Arch, Docker, Proxmox, etc.)  
-- 📄 Dynamic routes for blog/projects (`/this-pc/blogs/[slug]`, `/this-pc/projects/[slug]`)  
-- 🌙 Dark mode support  
-
----
-
-## ⚙️ Technologies Used
-
-- **Next.js 15 (App Router)**
-- **React 18**
-- **TypeScript**
-- **Tailwind CSS**
-- **Shadcn/UI**
-- **Framer Motion**
-- **React Markdown** + `remark-gfm`, `rehype-raw`, `rehype-sanitize`
-- **Prism.js** or `react-syntax-highlighter`
-- **Auth0**
-- **Docker**
-- **Proxmox**
+- Desktop-inspired interface instead of a traditional portfolio
+- Blog posts written in Markdown with syntax highlighting
+- Pages for the tools I use, including Arch Linux, Docker, and Proxmox
+- Dynamic routes for blogs and projects
+- Dark mode support
+- Smooth animations to make navigation feel more natural
 
 ---
 
-## 🧠 What I Learned
+## Tech Stack
 
-- ✅ Leveraging the **Next.js App Router** to build file-based routing with layouts and loading states.
-- ✅ Setting up **dynamic static pages** with `generateStaticParams()` and optimizing SEO.
-- ✅ Handling **Markdown parsing securely** using `rehype-sanitize`.
-- ✅ Using **Tailwind CSS + Shadcn/UI** to maintain consistent styling with minimal code.
-- ✅ Containerizing the full stack with **Docker** for easier deployment.
-- ✅ Improving accessibility and responsiveness through semantic HTML and layout tweaks.
-- ✅ Hosting and managing services on **Proxmox** as part of a home lab.
+- Next.js 15
+- React
+- TypeScript
+- Tailwind CSS
+- Shadcn/UI
+- Framer Motion
+- React Markdown
+- remark-gfm
+- rehype-raw
+- rehype-sanitize
+- Prism.js / react-syntax-highlighter
+- Auth0
+- Docker
+- Proxmox
 
 ---
 
-## 📬 Contact
+## What I Learned
 
-If you have questions, feedback, or just want to connect:
+This project helped me get more comfortable with several parts of the modern React ecosystem.
 
-📧 [Shivamdurgude1@gmail.com]  
-🌐 [devsh.tech](https://portfolio-one-navy-57.vercel.app/)  
-🐙 [GitHub](https://github.com/sd191100)
+Some of the things I learned along the way include:
+
+- Working with the Next.js App Router and nested layouts
+- Creating dynamic pages with `generateStaticParams()`
+- Rendering Markdown safely using `rehype-sanitize`
+- Building reusable components with Tailwind CSS and Shadcn/UI
+- Containerizing the application with Docker
+- Making the interface responsive while keeping the desktop-inspired design
+- Hosting and managing the project on my Proxmox home server
+
+There are still things I'd like to improve, but that's part of building projects and learning as I go.
+
+---
+
+## Contact
+
+If you have any feedback, find a bug, or just want to connect, feel free to reach out.
+
+- **Email:** Shivamdurgude1@gmail.com
+- **Portfolio:** https://portfolio-one-navy-57.vercel.app/
+- **GitHub:** https://github.com/sd191100
